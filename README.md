@@ -4,7 +4,7 @@ Asha Empire is a strategy-based, FPS and RPG game that takes place in a vast and
 
 Players will purchase NFTs that represent the characters they will play as. Each NFT is unique and can be bought, sold, and traded by players. When an NFT is transferred to a new owner, all the character's property, level, and assets are transferred with it.
 
-Your mission is to complete various tasks to level up and gain new assets. To start, you will need to purchase an NFT character and create an account on the game's website. This character will become your avatar in the game and all its property and level will be transferred to the new owner when the NFT changes hands.
+Your mission is to complete various tasks to level up and gain new assets, engage in thrilling battles, and explore the unknown. To start, you will need to purchase an NFT character and create an account on the game's website. This character will become your avatar in the game and all its property and level will be transferred to the new owner when the NFT changes hands.
 
 One of the key features of Asha Empire is the ability to produce and trade goods. Players can extract minerals, produce items in facilities, and sell them in local markets. To access advanced weapons, vehicles, and spaceships, players must attend schools and increase their education level.
 
