@@ -8,7 +8,7 @@ One of the key features of Asha Empire is the ability to produce and trade goods
 
 Organizations will be another important aspect of the game. Players can establish organizations and manage them with other players. Organizations can have their own territories, cities, and even regions within the game. To maintain their status, organizations must pay taxes to the empire, but the tax revenue will be deposited into their accounts. Organizations can also form alliances and work together to achieve common goals.
 
-Another key aspect of Asha Empire is survival. In order to ensure players can continue their journey, they must obtain life insurance from an insurance company located in the cities. This insurance policy will protect players from permanent death and allow them to revive from their clone. Players who do not have insurance will be reset.
+Another key aspect of Asha Empire is survival. In order to ensure players can continue their journey, they must obtain life insurance from an insurance company located in the cities on planets or space stations. This insurance policy will protect players from permanent death and allow them to revive from their clone. Players who do not have insurance will be reset.
 
 The game also offers opportunities for players to engage in resource gathering and agriculture. Players can extract minerals and produce crops, which they can then sell in the market or use to produce items. When players log out, their characters will automatically enter sleep mode, but must be fed occasionally to ensure their survival.
 
