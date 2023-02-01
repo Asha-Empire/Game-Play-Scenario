@@ -1,6 +1,6 @@
 # Game Play Scenario
 
-**Asha Empire** is a strategy-based, FPS and RPG game that takes place in a vast and dynamic world. Players will begin on a single planet, but will soon be able to travel to other planets, space stations, and space outposts. The game's safe zones will be monitored by the forces of the empire to ensure players can engage in peaceful interactions without fear of attack.
+**Asha Empire** is a strategy-based, FPS and RPG game that takes place in a vast and dynamic world. Players will begin on a single planet "Vita Nova", but will soon be able to travel to other planets, space stations, and space outposts. The game's safe zones will be monitored by the forces of the empire to ensure players can engage in peaceful interactions without fear of attack.
 
 Players will purchase NFTs that represent the characters they will play as. Each NFT is unique and can be bought, sold, and traded by players. When an NFT is transferred to a new owner, all the character's property, level, and assets are transferred with it.
 
