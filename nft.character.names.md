@@ -1,5 +1,7 @@
 # Names of game characters (as NFTs)
 
+These are the draft character names:
+
 ### Persian Mythology
 
 * Ahura Mazda (Supreme God of Wisdom and Creation, Male)
