@@ -15,3 +15,5 @@ Another key aspect of Asha Empire is survival. In order to ensure players can co
 The game also offers opportunities for players to engage in resource gathering and agriculture. Players can extract minerals and produce crops, which they can then sell in the market or use to produce items. When players log out, their characters will automatically enter sleep mode, but must be fed occasionally to ensure their survival.
 
 Asha Empire offers a rich and immersive world for players to explore, with the option to engage in battles with other players in unsafe areas. All trading and transactions within the game will be conducted using the AEC currency, which can be traded and transferred out of the game as a token. The game has no subscription fee, but players must purchase an NFT to play.
+
+[Names of game characters](nft.character.names.md)
