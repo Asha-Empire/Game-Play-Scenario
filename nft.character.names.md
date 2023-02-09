@@ -871,7 +871,7 @@ These are the draft character names:
 * Zemepatis (God of the Earth, Male)
 * Laima (Goddess of fate, childbirth, and prosperity, Female)
 
-### Buddhism Mythology
+### Buddhist Mythology
 
 * The Buddha (The Enlightened One, Male)
 * The Dharma (The Teachings, Concept)
