@@ -638,7 +638,7 @@ These are the draft character names:
 * Kalkadoon (Warrior Spirit, Male)
 * Wiradjuri (Rain Spirit, Male)
 
-### African Mythology
+### African Mythologies
 
 * Anansi (Trickster Spider, Male) - Ashanti mythology
 * Nyame (Sky God, Male) - Ashanti mythology
@@ -819,7 +819,7 @@ These are the draft character names:
 * Chac Muluc (God of the South, Male)
 * Ixcanul (Goddess of Volcanoes, Female)
 
-### Russian Mythology
+### West and Central Asia Mythologies
 
 * Perun (God of Thunder and the Sky, Male)
 * Veles (God of the Underworld, Male)
@@ -871,4 +871,47 @@ These are the draft character names:
 * Zemepatis (God of the Earth, Male)
 * Laima (Goddess of fate, childbirth, and prosperity, Female)
 
+### Buddhism Mythology
 
+* The Buddha (The Enlightened One, Male)
+* The Dharma (The Teachings, Concept)
+* The Sangha (The Community of Monks and Nuns, Concept)
+* Avalokiteshvara (Bodhisattva of Compassion, Male or Female)
+* Manjushri (Bodhisattva of Wisdom, Male)
+* Ksitigarbha (Bodhisattva of Hell Beings, Male)
+* Maitreya (Future Buddha, Male)
+* Vajrapāṇi (Bodhisattva of Power, Male)
+* Vairocana (Cosmic Buddha, Male)
+* Ratnasambhava (Buddha of the South, Male)
+* Amitabha (Buddha of the Western Pure Land, Male)
+* Amoghasiddhi (Buddha of the North, Male)
+* Padmasambhava (Lotus-Born Guru, Male)
+* Tara (Bodhisattva of Compassion, Female)
+* Marici (Goddess of Light, Female)
+* Samantabhadra (Bodhisattva of Practice, Male or Female)
+* Mahasthamaprapta (Bodhisattva of Power, Male or Female)
+* Aksobhya (Immovable Buddha, Male)
+* Shakyamuni (The Sage of the Shakyas, Male)
+* Yasodhara (The Buddha's Wife, Female)
+* Ananda (The Buddha's Cousin and Personal Attendant, Male)
+* Rahula (The Buddha's Son, Male)
+* Mahapajapati (The Buddha's Mother, Female)
+* Mahakasyapa (One of the Buddha's Top Disciples, Male)
+* Sariputra (One of the Buddha's Top Disciples, Male)
+* Maudgalyayana (One of the Buddha's Top Disciples, Male)
+* Anuruddha (One of the Buddha's Top Disciples, Male)
+* Upali (One of the Buddha's Disciples, Male)
+* Anathapindika (One of the Buddha's Lay Followers, Male)
+* Visakha (One of the Buddha's Lay Followers, Female)
+* Sunakshatra (One of the Buddha's Lay Followers, Male)
+* Jivaka (The Buddha's Physician, Male)
+* Devadatta (The Buddha's Cousin and Rival, Male)
+* Angulimala (Bandit who became a Monk, Male)
+* King Bimbisara (Patron of the Buddha, Male)
+* King Ajatashatru (Patron of the Buddha, Male)
+* Queen Vaidehi (Patron of the Buddha, Female)
+* Asanga (Founder of the Yogacara School, Male)
+* Vasubandhu (Founder of the Yogacara School, Male)
+* Nagarjuna (Founder of the Madhyamaka School, Male)
+* Asvaghosa (Early Buddhist Poet, Male)
+* Nagas (Serpentine Deities, Male)
